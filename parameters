@@ -1,0 +1,1 @@
+{"DT": {"Random": {"min_samples_leaf": 20, "max_depth": 15}}, "LR (None)": {"Random": {"tol": 0.0004, "C": 100}}, "LR (L1)": {"Random": {"tol": 0.0004, "C": 10}}, "LR (L2)": {"Random": {"tol": 0.0001, "C": 1}}, "KNN": {"Random": {"p": 2, "n_neighbors": 20}}}

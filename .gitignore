@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+xTrain.csv
+xTest.csv
+yTrain.csv
+yTest.csv
+youtube.csv
+heatmap.png
